@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Antenna Digital Admin Support
-Description: Provides form to send support details directly to Antenna
+Description: Provides a form to send support details directly to Antenna Support
 Plugin URI:  https://antennagroup.com/
 Author:      Antenna | Digital
 Version:     1.1
