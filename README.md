@@ -1,2 +1,2 @@
 # ad-admin-support
-Send support details directly to Antenna
+Provides a form to send support details directly to Antenna Support
